@@ -1,6 +1,6 @@
 palzin:
     ingestion_key: '%env(PALZIN_APM_INGESTION_KEY)%'
-    url: '%env(PALZIN_APM_INGESTION_KEY)%'
+    url: '%env(PALZIN_APM_URL)%'
     enabled: true
     unhandled_exceptions: true
     query: true
