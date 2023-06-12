@@ -7,7 +7,7 @@ Palzin Monitor offers real-time performance monitoring capabilities that allow y
 
 - [Requirements](#requirements)
 - [Install](#install)
-- [Configure the INGESTION key](#key)
+- [Configure the INGESTION key & URL](#key)
 - [Official Documentation](https://palzin.app/guides/symfony-introduction)
 - [License](#license)
 
