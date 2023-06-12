@@ -23,7 +23,7 @@ class PalzinExtension extends Extension
     /**
      * Current version of the bundle.
      */
-    const VERSION = '1.1.1';
+    const VERSION = '23.03.22';
 
     /**
      * Loads a specific configuration.
