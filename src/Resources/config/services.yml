@@ -1,0 +1,7 @@
+services:
+    Palzin\Symfony\Bundle\Command\PalzinTestCommand:
+        arguments:
+          [ '@Palzin\Palzin', '@logger', '@Palzin\Configuration' ]
+        tags:
+            - { name: 'console.command', command: 'palzin:test' }
+

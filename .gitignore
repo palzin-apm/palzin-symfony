@@ -1,0 +1,17 @@
+composer.phar
+composer.lock
+composer-test.lock
+phpunit.xml
+phpunit.xml.dist
+/var/
+vendor/
+build/artifacts/
+artifacts/
+docs/_build
+docs/*.pyc
+.idea
+.DS_STORE
+.phpunit.result.cache
+/tests/cache
+/tests/cache*
+
